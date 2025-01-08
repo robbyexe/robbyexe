@@ -44,6 +44,10 @@
 
 ###
 
+<p align="left">Lol heres a poor snake with my no public contributions (he'll get something to eat eventually)</p>
+
+##
+
 <img src="https://raw.githubusercontent.com/robbyexe/robbyexe/output/snake.svg" alt="Snake animation" />
 
 ###
