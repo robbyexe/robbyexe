@@ -1,4 +1,4 @@
-<h1>heellooooooo I'm Robert (Robby)</h1>
+<h1>Heellooooooo I'm Robert (Robby)</h1>
 <p>Just a dude who does stuff (with variable proficiency) in other stuff</p>
 <h2>Some languages/platforms I've messed in:</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
