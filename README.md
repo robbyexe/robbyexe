@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Uhhh cars<br>Uhhh design<br>Uhhh arch<br><br>I start a lot of projects then put them on hold and revisit them a year later when I'm bored</p><br>Anyways here's my <a href="https://robbyexe.net">portfolio website</a>
+<p align="left">Uhhh cars<br>Uhhh design<br>Uhhh arch<br><br>I start a lot of projects then put them on hold and revisit them a year later when I'm bored</p><br>Anyways here's my <a href="https://robbyexe.net">portfolio website</a> (sorry for the excessive webgl)
 
 ###
 
